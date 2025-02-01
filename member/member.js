@@ -4,3 +4,5 @@
 //updateMember 기능 완료
 
 //deleteMember 기능 완료
+
+//getMember 기능 완료
